@@ -1,8 +1,20 @@
-# React + Vite
+# Rick and Morty API
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<img src="src/assets/projeto-rick-morty-api.png">
 
-Currently, two official plugins are available:
+Este projeto é uma aplicação web que utiliza a API pública do Rick and Morty, permitindo consultar e visualizar informações sobre todos os personagens que já apareceram na série de animação "Rick and Morty".
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Tecnologias Utilizadas
+- HTML
+- CSS
+- React.js
+
+## Dê play no projeto!
+
+[Confira aqui!](https://iana-ribeiro.github.io/rick-and-morty-api/)
+
+## Contato
+
+**E-mail**: ianaribeiro.tech@gmail.com
+
+Ou entre em contato pelo [LinkedIn](https://www.linkedin.com/in/iana-ribeiro/).
